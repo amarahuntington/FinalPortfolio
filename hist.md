@@ -1,20 +1,3 @@
-```python
-subjects = ['spid10_2014_06_17_17_44', 'spid12_2014_06_20_15_11']
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-in_file = (subjects[0]+ "/"+ subjects[0]+ '_data.txt')
-df= pd.read_csv(in_file, sep='\t')
-df.isna().sum()
-df= df.dropna(axis=0, how='any')
-df.isna().sum()
-df= df.iloc[::3]
-df = df[df.block != 'practice']
-df['rt']= 1000*df['rt']
-```
-
-
-```python
 ## All histograms are plotted with a solid line at the median, and dashed lines at 25th and 75th percentiles.
 ```
 
