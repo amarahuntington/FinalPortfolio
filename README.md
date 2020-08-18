@@ -13,7 +13,13 @@ This code is drawn from assignment 3 and shows how to inspect and clean data for
 [View Project](clean.md)
 
 
-### Sample 3
+### Data Visualization 
+Also from assignment 3, the data is visualized in multiple ways utilizing matplotlibs histogram plotting functions. Reaction time is represented using a normal histogram, a cumulative density function histogram, as well as versions using inverse and log transformed data.
+
+[View Project](hist.md)
+
+
+
 ### Sample 4
 ### Sample 5
 ### Sample 6
