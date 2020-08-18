@@ -26,10 +26,6 @@ overlay = np.where(labels > 0, labels, np.nan)
 plt.imshow(overlay, cmap='rainbow', alpha= 0.75)
 format_and_render_plot()
 
-<img width="597" alt="heart" src="https://user-images.githubusercontent.com/69179367/90495286-cd6b9300-e11a-11ea-87bb-3db7629ea242.png">
-
-
-
 
 # We want to segment the left ventricle from this image. To do this, I first find the index value for the left venticle label
 lv_val = labels[128, 128] 
@@ -45,7 +41,6 @@ im_lv = im[bboxes[0]]
 plt.imshow(im_lv) 
 format_and_render_plot()
 
-<img width="376" alt="zoom" src="https://user-images.githubusercontent.com/69179367/90495300-d2304700-e11a-11ea-8f71-9bff83218a43.png">
 
 ```
 
