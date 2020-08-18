@@ -26,9 +26,6 @@ overlay = np.where(labels > 0, labels, np.nan)
 plt.imshow(overlay, cmap='rainbow', alpha= 0.75)
 format_and_render_plot()
 
-
-
-
 # We want to segment the left ventricle from this image. To do this, I first find the index value for the left venticle label
 lv_val = labels[128, 128] 
 lv_mask = np.where(labels == lv_val, 1, 0)
@@ -42,16 +39,7 @@ im_lv = im[bboxes[0]]
 # Plot the cropped image
 plt.imshow(im_lv) 
 format_and_render_plot()
-
-
-
-
 ```
-
-
-  
-
-
 
 ```python
 
