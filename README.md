@@ -5,7 +5,7 @@ A collection of my coding work from neural data science.
 ## Data Analysis
 This is a sample of code from the Datacamp project "Real-time Insights from Social Media Data". Twitter Data is analysed to explore trends and represented in a table format. 
 
-[View Project](twitter(1).md)
+[View Project](twitter (1).md)
 
 ## Sample 2
 ## Sample 3
