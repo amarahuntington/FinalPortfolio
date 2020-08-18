@@ -30,6 +30,7 @@ format_and_render_plot()
 
 
 
+
 # We want to segment the left ventricle from this image. To do this, I first find the index value for the left venticle label
 lv_val = labels[128, 128] 
 lv_mask = np.where(labels == lv_val, 1, 0)
@@ -42,8 +43,9 @@ im_lv = im[bboxes[0]]
 
 # Plot the cropped image
 plt.imshow(im_lv) 
-<img width="376" alt="Screen Shot 2020-08-18 at 5 55 49 AM" src="https://user-images.githubusercontent.com/69179367/90492869-09512900-e118-11ea-8ddb-d9c46638602d.png">
 format_and_render_plot()
+
+<img width="376" alt="Screen Shot 2020-08-18 at 5 55 49 AM" src="https://user-images.githubusercontent.com/69179367/90492869-09512900-e118-11ea-8ddb-d9c46638602d.png">
 ```
 
 
