@@ -1,5 +1,18 @@
 # Final Portfolio
-The following is a collection of code that exhibits my experience with Python.
+This collection of samples display the coding experience that I've gained from participation in the Neural Data Science course offered by Dalhousie University. 
+In context of my completion of this course, these the following examples are the result of the acheivement of the following learning objectives:
+
+-Extract meaning from data 
+-Organize and manipulate data structures 
+-Visualize data in a variety of graphical formats 
+-Work with continuous, discrete, and factorial data
+-Write functional and efficient code in Python 
+-Read and write data files in common formats such as CSV and Excel
+-Use online tools for collaborative software development and project management 
+-Extend skills using online resources 
+-Perform exploratory data analysis using graphical and basic statistical operations 
+-Perform basic signal processing on data, such as filtering in temporal and spatial dimensions 
+-Build and run data processing pipelines on various types of neuroscientific data, including single unit recordings, time series, and 2D/3D/4D images 
 
 
 ### Data Analysis
