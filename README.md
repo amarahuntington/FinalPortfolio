@@ -43,7 +43,11 @@ This is a sample of code from the Datacamp project "Real-time Insights from Soci
 
 [View Project](twitter.md)
 
-### Sample 4
+### Subsetting with Groupby
+In this example, a large dataframe is subsetted into smaller groups based on specific conditions using the "groupby" method. Data statistics are then explored.
+
+[View Project](group.md)
+
 ### Sample 5
 ### Sample 6
 ### Sample 7
