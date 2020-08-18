@@ -27,11 +27,6 @@ In context of my completion of this course, these the following examples are the
   -Build and run data processing pipelines on various types of neuroscientific data, including single unit recordings, time series, and 2D/3D/4D images 
 
 
-### Data Analysis
-This is a sample of code from the Datacamp project "Real-time Insights from Social Media Data". Twitter Data is analysed to explore trends and represented in a table format. 
-
-[View Project](twitter.md)
-
 ### Data Cleaning
 This code is drawn from assignment 3 and shows how to inspect and clean data for further analysis. Data is inspected prior to removal of Nan values, practice trials, and repeating rows.
 
@@ -43,7 +38,10 @@ Also from assignment 3, the data is visualized in multiple ways utilizing matplo
 
 [View Project](hist.md)
 
+### Data Analysis
+This is a sample of code from the Datacamp project "Real-time Insights from Social Media Data". Twitter Data is analysed to explore trends and represented in a table format. 
 
+[View Project](twitter.md)
 
 ### Sample 4
 ### Sample 5
