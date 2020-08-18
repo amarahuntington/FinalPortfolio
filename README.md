@@ -48,7 +48,15 @@ In this example, a large dataframe is subsetted into smaller groups based on spe
 
 [View Project](group.md)
 
-### Sample 5
+### Image Segmentation 
+In this example I work with the MRI data of a heartbeat. This data is a 3D time series in which I manipulate to identify objects of interest. 
+
+[View Project](mri.md)
+
+(Magnetic resonance imaging data provided by the Sunnybrook Cardiac Dataset) 
+http://www.cardiacatlas.org/studies/sunnybrook-cardiac-data/ 
+
+
 ### Sample 6
 ### Sample 7
 
