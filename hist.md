@@ -33,7 +33,7 @@ plt.show()
 
 
 
-![png](hist_files/hist_2_0.png)
+<img width="717" alt="1" src="https://user-images.githubusercontent.com/69179367/90472698-83bd8100-e0f7-11ea-86e5-736339ee2bbd.png">
 
 
 
@@ -52,7 +52,7 @@ plt.show()
 
 
 
-![png](hist_files/hist_3_0.png)
+<img width="724" alt="2" src="https://user-images.githubusercontent.com/69179367/90472704-84eeae00-e0f7-11ea-89f1-b9dfbfda374f.png">
 
 
 
@@ -71,7 +71,8 @@ plt.show()
 
 
 
-![png](hist_files/hist_4_0.png)
+<img width="717" alt="3" src="https://user-images.githubusercontent.com/69179367/90472705-85874480-e0f7-11ea-97f8-9499594249fa.png">
+
 
 
 
@@ -90,6 +91,6 @@ plt.show()
 
 
 
-![png](hist_files/hist_5_0.png)
+<img width="717" alt="4" src="https://user-images.githubusercontent.com/69179367/90472706-86b87180-e0f7-11ea-9c84-bf5b6e0c47bb.png">
 
 
