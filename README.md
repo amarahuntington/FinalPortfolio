@@ -1,5 +1,5 @@
 # Final Portfolio
-A collection of my coding work from neural data science.
+The following is a collection of code that exhibits my experience with Python.
 
 
 ### Data Analysis
@@ -18,3 +18,8 @@ This code is drawn from assignment 3 and shows how to inspect and clean data for
 ### Sample 5
 ### Sample 6
 ### Sample 7
+
+
+
+Questions? Email me at:
+[am516781@dal.ca](mailto:am516781@dal.ca)
