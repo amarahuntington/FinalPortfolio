@@ -35,7 +35,7 @@ In this example I work with the MRI data of a heartbeat. This data is a 3D time 
 http://www.cardiacatlas.org/studies/sunnybrook-cardiac-data/ 
 
 
-### Loop Conversions
+### Loop Conversion
 
 This is an example of code that uses a loop to convert seconds into milliseconds.
 
