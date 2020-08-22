@@ -40,6 +40,13 @@ This is an example of code that uses a loop to convert seconds into milliseconds
 
 [View Project](Loop.md)
 
+### Interactive Plots
+
+This sample shows how to use code to generate an interactive plot. This example uses raster plots of 3 different neurons across various conditions.
+
+[View Project](interact.md)
+
+
 ### Duplicating Jupyter Notebooks
 
 This is a demo I have produced that shows how to duplicate a Jupyter notebook. This allows individual to work on group projects separately, without altering the main notebook.
