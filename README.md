@@ -1,8 +1,7 @@
 # Final Portfolio
 Welcome to my portfolio!
 
-This collection of samples display the coding experience that I've gained from participation in the Neural Data Science course offered by Dalhousie University. 
-In context of my completion of this course, these the following examples are the result of the acheivement of course learning outcomes.
+The following collection of samples display the coding experience that I've gained through participation in the Neural Data Science course offered by Dalhousie University .
 
 
 ### Data Cleaning 
