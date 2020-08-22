@@ -41,6 +41,9 @@ This is an example of code that uses a loop to convert seconds into milliseconds
 [View Project](Loop.md)
 
 ### Duplicating Jupyter Notebooks
+
+This is a demo I have produced that shows how to duplicate a Jupyter notebook. This allows individual to work on group projects separately, without altering the main notebook.
+
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/f6d9020c-451c-471b-a231-06fda47cf8bf?autoplay=false&amp;showinfo=false" allowfullscreen style="border:none;"></iframe>
 
 Questions? Email me at:
