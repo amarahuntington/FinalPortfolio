@@ -40,11 +40,6 @@ This is an example of code that uses a loop to convert seconds into milliseconds
 
 [View Project](Loop.md)
 
-### Interactive Plots
-
-This sample shows how to use code to generate an interactive plot. This example uses raster plots of 3 different neurons across various conditions.
-
-[View Project](interact.htm)
 
 
 ### Duplicating Jupyter Notebooks
