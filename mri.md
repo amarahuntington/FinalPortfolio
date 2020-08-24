@@ -1,3 +1,5 @@
+<a href="https://amarahuntington.github.io/FinalPortfolio/">Home</a>
+
 ```python
 import imageio as im
 import numpy as np
