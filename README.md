@@ -1,11 +1,10 @@
 # Final Portfolio
 Welcome to my portfolio!
 
-The following collection of samples display the coding experience that I've gained through participation in the Neural Data Science course offered by Dalhousie University .
-
+This is a collection of samples to display the coding experience that I've gained through participation in NESC 3505 at Dalhousie University.
 
 ### Data Cleaning 
-This code is drawn from assignment 3 and shows how to inspect and clean data for further analysis. Data is inspected prior to removal of Nan values, practice trials, and repeating rows.
+This code is shows how to inspect and clean data for further analysis. Data is inspected prior to removal of Nan values, practice trials, and repeating rows.
 
 [View Project](clean.md)
 
